@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "name": "Joel Hudson",
+      "id": 13
+    },
+    {
+      "name": "Miss Angel Abshire",
+      "id": 17
+    },
+    {
+      "name": "Dr. Celia Johns",
+      "id": 19
+    },
+    {
+      "name": "Sophie Bruen",
+      "id": 22
+    },
+    {
+      "name": "Rebecca Yundt",
+      "id": 23
+    }
+  ],
+  "albums": [
+    {
+      "userId": 13,
+      "title": "Rustic Frozen Gloves",
+      "id": 7
+    },
+    {
+      "userId": 19,
+      "title": "Electronic Rubber Keyboard",
+      "id": 11
+    },
+    {
+      "userId": 17,
+      "title": "Handmade Bronze Computer",
+      "id": 13
+    },
+    {
+      "userId": 13,
+      "title": "Rustic Bronze Shoes",
+      "id": 14
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=13549",
+      "id": 4
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/150/150/abstract?lock=12705",
+      "id": 5
+    }
+  ]
+}
