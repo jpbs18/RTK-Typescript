@@ -1,5 +1,3 @@
-
-import { AsyncThunk } from "@reduxjs/toolkit/dist/createAsyncThunk";
 import { useCallback, useState } from "react";
 import { useAppDispatch } from "../store";
 
